@@ -1,0 +1,14 @@
+*.iml
+*.ipr
+*.iws
+*.ids
+*.log
+build/
+out/
+.gradle/
+.idea/
+data/
+*/*/.DS_Store
+*/.DS_Store
+*.log
+SeleniumTest/
